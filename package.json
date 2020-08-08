@@ -1,0 +1,19 @@
+{
+  "name": "peer2peer",
+  "version": "1.0.0",
+  "description": "peer2peer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tovernaar123/peer2peer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tovernaar123/peer2peer/issues"
+  },
+  "homepage": "https://github.com/tovernaar123/peer2peer#readme"
+}
